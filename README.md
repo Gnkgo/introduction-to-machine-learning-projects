@@ -16,3 +16,5 @@ We managed to achieve an overall grade of a 6. Thanks for the good discussions a
 
 Note: task0 was not graded, so there is a full task description. Since the other tasks got graded and are the property of ETHZ 
 I just explain the main idea of the project and the overall idea with different inputs, equations etc.
+
+Checkout [my website](https://gnkgo.ch) where I explain the code in more detail. Cheers
